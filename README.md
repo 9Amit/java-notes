@@ -1,30 +1,5 @@
 # Java and Spring Boot Notes
 
-This repository contains beginner-to-intermediate notes for **Java** and **Spring Boot**.
-The goal is to keep everything simple, practical, and easy to revise from GitHub.
-
-## Topics
-
-### Java
-- Basics: variables, data types, operators
-- OOP concepts: class, object, inheritance, polymorphism
-- Collections: List, Set, Map
-- Exception handling
-- Java 8 features (Lambda, Stream API)
-
-### Spring Boot
-- What Spring Boot is and why to use it
-- Project structure
-- Dependency Injection
-- REST API basics
-- JPA and database basics
-- Profiles and configuration
-
-## Notes Files
-
-- [Java Notes](notes/java-notes.md)
-- [Spring Boot Notes](notes/springboot-notes.md)
-
 ## Essential Java Interview Guide
 
 When an interviewer asks you a question, they are not looking for a textbook definition.
